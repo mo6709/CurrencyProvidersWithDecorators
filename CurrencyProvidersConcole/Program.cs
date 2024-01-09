@@ -7,7 +7,7 @@ namespace CurrencyProvidersConcole
     {
         static async Task Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Currency providers system");
             ICurrencyProvider currencyProvider = new CloudProviderInMemoryCacheDecorator(
                     new CloudProviderDistributedCacheDecorator(
                             new AfexCloudProvider()));

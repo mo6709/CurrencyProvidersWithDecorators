@@ -1,13 +1,18 @@
-class AfexCloudProvider : ICurrencyProvider
+using System;
+using System.Threading.Tasks;
+namespace CurrencyProvidersConcole 
 {
-    public async Task<string> GetNoneTradingDays()
+    class AfexCloudProvider : ICurrencyProvider
     {
-        // Get Afex API KEY
+        public async Task<string> GetNoneTradingDays()
+        {
+            // Get Afex API KEY
 
-        // Call afex GetNoneTradingDays
+            // Call afex GetNoneTradingDays
 
-        //return the value
-        Console.WriteLine($"[AfexCloudProvider] {DateTime.Now} - Loading from Afex");
-        return "Monday, Tuesday";
+            //return the value
+            Console.WriteLine($"[AfexCloudProvider] {DateTime.Now} - Loading from Afex");
+            return "Monday, Tuesday";
+        }
     }
 }

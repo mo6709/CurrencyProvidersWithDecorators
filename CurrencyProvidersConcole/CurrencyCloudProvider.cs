@@ -1,13 +1,18 @@
-class CurrencyCloudProvider: ICurrencyProvider
+using System;
+using System.Threading.Tasks;
+namespace CurrencyProvidersConcole 
 {
-    public async Task<string> GetNoneTradingDays()
+    class CurrencyCloudProvider : ICurrencyProvider
     {
-        // Get CC Authorization
+        public async Task<string> GetNoneTradingDays()
+        {
+            // Get CC Authorization
 
-        // Call CC GetNoneTradingDays
+            // Call CC GetNoneTradingDays
 
-        //return the value
-        Console.WriteLine($"[CurrencyCloud] {DateTime.Now} - Loading from Currency Cloud");
-        return "Monday, Tuesday";
+            //return the value
+            Console.WriteLine($"[CurrencyCloud] {DateTime.Now} - Loading from Currency Cloud");
+            return "Monday, Tuesday";
+        }
     }
 }
