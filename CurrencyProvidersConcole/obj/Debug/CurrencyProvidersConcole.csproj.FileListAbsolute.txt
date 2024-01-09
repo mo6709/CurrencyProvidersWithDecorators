@@ -1,0 +1,6 @@
+/Users/moshelevi/Projects/CurrencyProvidersConcole/CurrencyProvidersConcole/bin/Debug/CurrencyProvidersConcole.exe
+/Users/moshelevi/Projects/CurrencyProvidersConcole/CurrencyProvidersConcole/bin/Debug/CurrencyProvidersConcole.pdb
+/Users/moshelevi/Projects/CurrencyProvidersConcole/CurrencyProvidersConcole/obj/Debug/CurrencyProvidersConcole.csproj.AssemblyReference.cache
+/Users/moshelevi/Projects/CurrencyProvidersConcole/CurrencyProvidersConcole/obj/Debug/CurrencyProvidersConcole.csproj.CoreCompileInputs.cache
+/Users/moshelevi/Projects/CurrencyProvidersConcole/CurrencyProvidersConcole/obj/Debug/CurrencyProvidersConcole.exe
+/Users/moshelevi/Projects/CurrencyProvidersConcole/CurrencyProvidersConcole/obj/Debug/CurrencyProvidersConcole.pdb

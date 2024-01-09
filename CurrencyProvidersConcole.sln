@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.25
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CurrencyProvidersConcole", "CurrencyProvidersConcole\CurrencyProvidersConcole.csproj", "{D360E395-065D-419B-BFE8-97BF5CA0B55B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D360E395-065D-419B-BFE8-97BF5CA0B55B}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{D360E395-065D-419B-BFE8-97BF5CA0B55B}.Debug|anycpu.Build.0 = Debug|anycpu
+		{D360E395-065D-419B-BFE8-97BF5CA0B55B}.Release|anycpu.ActiveCfg = Release|anycpu
+		{D360E395-065D-419B-BFE8-97BF5CA0B55B}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AAC03EAA-2BBE-489C-ABD1-C17B8ABD7CE0}
+	EndGlobalSection
+EndGlobal
