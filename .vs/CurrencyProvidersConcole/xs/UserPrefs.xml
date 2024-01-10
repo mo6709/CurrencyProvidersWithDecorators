@@ -1,14 +1,20 @@
 ﻿<Properties StartupConfiguration="{D360E395-065D-419B-BFE8-97BF5CA0B55B}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="CurrencyProvidersConcole/ICurrencyProvider.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CurrencyProvidersConcole/CurrencyCloudProvider.cs">
     <Files>
-      <File FileName="CurrencyProvidersConcole/Program.cs" Line="10" Column="23" />
-      <File FileName="CurrencyProvidersConcole/ICurrencyProvider.cs" Line="15" Column="34" />
+      <File FileName="CurrencyProvidersConcole/Program.cs" Line="11" Column="70" />
+      <File FileName="CurrencyProvidersConcole/ICurrencyProvider.cs" />
+      <File FileName="CurrencyProvidersConcole/AfexCloudProvider.cs" Line="1" Column="1" />
+      <File FileName="CurrencyProvidersConcole/CloudProviderDistributedCacheDecorator.cs" Line="1" Column="1" />
+      <File FileName="CurrencyProvidersConcole/CloudProviderInMemoryCacheDecorator.cs" Line="1" Column="1" />
+      <File FileName="CurrencyProvidersConcole/CurrencyCloudProvider.cs" Line="18" Column="2" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="CurrencyProvidersConcole" expanded="True" selected="True">
-            <Node name="CurrencyProvidersConcole" expanded="True" />
+          <Node name="CurrencyProvidersConcole" expanded="True">
+            <Node name="CurrencyProvidersConcole" expanded="True">
+              <Node name="CurrencyCloudProvider.cs" selected="True" />
+            </Node>
           </Node>
         </State>
       </Pad>

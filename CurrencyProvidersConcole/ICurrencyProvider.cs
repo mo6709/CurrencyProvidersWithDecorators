@@ -3,7 +3,7 @@ using System.Threading.Tasks;
 
 namespace CurrencyProvidersConcole
 {
-    interface ICurrencyProvider
+    public interface ICurrencyProvider
     {
         Task<string> GetNoneTradingDays();
     }

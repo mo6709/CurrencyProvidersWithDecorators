@@ -33,6 +33,10 @@
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="ICurrencyProvider.cs" />
+    <Compile Include="AfexCloudProvider.cs" />
+    <Compile Include="CloudProviderDistributedCacheDecorator.cs" />
+    <Compile Include="CloudProviderInMemoryCacheDecorator.cs" />
+    <Compile Include="CurrencyCloudProvider.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>
